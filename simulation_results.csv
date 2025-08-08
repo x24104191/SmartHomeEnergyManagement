@@ -1,0 +1,21 @@
+Scenario,Latency(ms),Result
+Edge,14.01,{"sensor_id": 1; "timestamp": 1754600996500; "action": "Processed temperature: 0.00 at Cloud"}
+Edge,0.15,{"sensor_id": 1; "timestamp": 1754600996519; "action": "Processed temperature: 0.00 at Cloud"}
+Edge,0.09,{"sensor_id": 1; "timestamp": 1754600996519; "action": "Processed power_usage: 170.88 at Edge"}
+Edge,0.09,{"sensor_id": 1; "timestamp": 1754600996519; "action": "Processed temperature: 0.00 at Cloud"}
+Edge,0.08,{"sensor_id": 1; "timestamp": 1754600996519; "action": "Processed temperature: 108.50 at Edge"}
+Edge,0.09,{"sensor_id": 1; "timestamp": 1754600996519; "action": "Processed humidity: 105.78 at Edge"}
+Edge,0.10,{"sensor_id": 1; "timestamp": 1754600996520; "action": "Processed power_usage: 0.00 at Cloud"}
+Edge,0.08,{"sensor_id": 1; "timestamp": 1754600996520; "action": "Processed temperature: 75.53 at Edge"}
+Edge,0.09,{"sensor_id": 1; "timestamp": 1754600996520; "action": "Processed temperature: 0.00 at Cloud"}
+Edge,0.10,{"sensor_id": 1; "timestamp": 1754600996520; "action": "Processed temperature: 0.00 at Cloud"}
+Cloud,0.16,{"sensor_id": 1; "timestamp": 1754600996527; "action": "Processed temperature: 0.00 at Cloud"}
+Cloud,0.10,{"sensor_id": 1; "timestamp": 1754600996528; "action": "Processed humidity: 0.00 at Cloud"}
+Cloud,0.11,{"sensor_id": 1; "timestamp": 1754600996528; "action": "Processed power_usage: 0.00 at Cloud"}
+Cloud,0.10,{"sensor_id": 1; "timestamp": 1754600996528; "action": "Processed power_usage: 0.00 at Cloud"}
+Cloud,0.08,{"sensor_id": 1; "timestamp": 1754600996528; "action": "Processed power_usage: 0.00 at Cloud"}
+Cloud,0.20,{"sensor_id": 1; "timestamp": 1754600996529; "action": "Processed temperature: 0.00 at Cloud"}
+Cloud,0.21,{"sensor_id": 1; "timestamp": 1754600996529; "action": "Processed power_usage: 0.00 at Cloud"}
+Cloud,0.08,{"sensor_id": 1; "timestamp": 1754600996530; "action": "Processed power_usage: 0.00 at Cloud"}
+Cloud,0.08,{"sensor_id": 1; "timestamp": 1754600996530; "action": "Processed humidity: 0.00 at Cloud"}
+Cloud,0.08,{"sensor_id": 1; "timestamp": 1754600996530; "action": "Processed humidity: 0.00 at Cloud"}
